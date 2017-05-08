@@ -1,6 +1,4 @@
-# ko-dropzone
-
-Drag and drop files custom binding handler for knockout js.
+**ko-dropzone** is a custom binding handler for drag and drop of files for use with knockout js. It has a very small footprint and it's only dependency is knockout.
 
 ## Install
 
@@ -19,7 +17,7 @@ It will add itself to ko.bindingHandlers.dropZone.
 <div id="dropzone" data-bind="dropZone:{handleDrop:handleDrop}">Drop files here</div>
 ```
 
-### Node/Browserfiy
+### Node/Browserify
 
 ```js
 var ko = require("knockout");
