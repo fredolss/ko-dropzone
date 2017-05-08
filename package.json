@@ -1,0 +1,31 @@
+{
+  "name": "ko-dropzone",
+  "description": "Drag and drop files custom binding handler for knockout js.",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fredolss/ko-dropzone.git"
+  },
+  "homepage": "https://github.com/fredolss/ko-dropzone",
+  "main": "index.js",
+  "keywords": [
+    "knockout",
+    "bindinghandler",
+    "dropzone",
+     "drag",
+     "drop",
+    "upload",
+    "widget",
+    "browser",
+    "browserify"
+  ],
+  "dependencies": {
+    "knockout": "^3.3.0"
+  },
+  "author": {
+    "name": "Fredrik Olsson",
+    "email": "fredrik.olsson2@outlook.com",
+    "url": "https://github.com/fredolss"
+  },
+  "license": "MIT"
+}
